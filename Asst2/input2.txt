@@ -1,0 +1,24 @@
+int a,b;
+int c;
+float *d,*e;
+float f;
+int[4] g,h;
+int[4] i;
+struct foo{
+int j;
+float k;
+};
+struct cat{
+int l;
+string m;
+};
+struct foo aa,bb;
+struct cat cc;
+struct cat ae,be;
+int func(int n,int o){
+int p;
+}
+int func2(int a,int b){
+int x;
+}
+func(c,d);

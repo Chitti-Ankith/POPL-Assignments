@@ -1,0 +1,16 @@
+int a,b;
+int c;
+float d,e;
+float f;
+int g[5],h[5];
+int i[5];
+struct foo{
+int j;
+string k;
+};
+struct cat{
+int l;
+string m;
+}
+struct foo aa,bb;
+struct cat cc;

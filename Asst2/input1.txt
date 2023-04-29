@@ -1,0 +1,8 @@
+int a,b;
+int c[10];
+int func(int d,int e){}
+int sako;
+float f,g;
+double h,i;
+float j;
+func(a,b);
